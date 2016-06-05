@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="os_version">
+        <item>Resistor</item>
+        <item>Kapasitor</item>
+        <item>Induktor</item>
+        <item>Transistor</item>
+        <item>Dioda</item>
+        <item>Relay</item>
+        <item>Trafo</item>
+        <item>LED</item>
+        <item>SCR</item>
+        <item>Button Switch</item>
+    </string-array>
+
+    <string-array name="os_sub_version">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(Transformator)</item>
+        <item>(Light Emitting Diode)</item>
+        <item>( Sillicon Controlled Rectifier )</item>
+        <item></item>
+
+    </string-array>
+
+    <string-array name="list_icon">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+    </string-array>
+</resources>
